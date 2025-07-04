@@ -1,0 +1,11 @@
+*.csv
+multi_model.ipynb
+no_fear_mean.ipynb
+no_fear_mixed.ipynb
+no_fear.ipynb
+no_social_mix.ipynb
+/nu_env/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
